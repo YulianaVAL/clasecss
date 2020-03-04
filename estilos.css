@@ -1,0 +1,17 @@
+p {
+    font-size: 50px;
+    font-family: Comic sans Ms;
+    font-weight: bold;
+    color: rgba(255, 0, 140, 0.89);
+    text-align: left;
+}
+main {
+background-color: #06FBC7;
+}
+header{
+    background-color: #8080E3;
+}
+footer {
+    background-image:url(https://concepto.de/wp-content/uploads/2018/09/pintura2-1-e1538148276170.jpg);
+    
+}
